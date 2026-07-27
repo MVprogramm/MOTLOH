@@ -1,6 +1,6 @@
 # PROJECT BIBLE
 
-**Версия:** 2.2  
+**Версия:** 2.3  
 **Статус:** ACTIVE  
 **Назначение:** индекс обязательных правил разработки проекта
 
@@ -42,6 +42,7 @@
 6. [Git-процедура и обратимость](docs/project-bible/06-git-workflow.md)
 7. [Архитектура документов и структура репозитория](docs/project-bible/07-document-architecture.md)
 8. [Иерархия решений и рабочий цикл](docs/project-bible/08-decision-cycle.md)
+9. [Разработка элементов истории](docs/project-bible/09-element-development.md)
 
 ---
 

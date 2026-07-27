@@ -1,6 +1,6 @@
 # PROJECT BIBLE
 
-**Версия:** 2.5  
+**Версия:** 2.6  
 **Статус:** ACTIVE  
 **Назначение:** индекс обязательных правил разработки проекта
 
@@ -48,7 +48,7 @@
 1. [Источник истины и основные принципы](docs/project-bible/01-source-of-truth.md)
 2. [BASELINE и фиксация текста](docs/project-bible/02-baseline.md)
 3. [Разработка и проверка сцен](docs/project-bible/03-scene-development.md)
-4. [Предложение и утверждение правок](docs/project-bible/04-change-approval.md)
+4. [Пакет сцены](docs/project-bible/04-scene-package.md)
 5. [История изменений и нерешённые вопросы](docs/project-bible/05-change-management.md)
 6. [Git-процедура и обратимость](docs/project-bible/06-git-workflow.md)
 7. [Архитектура документов и структура репозитория](docs/project-bible/07-document-architecture.md)
